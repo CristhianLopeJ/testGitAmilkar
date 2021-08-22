@@ -1,1 +1,23 @@
 19 - 08 -2021 yo Cristhian cree este archivo txt en esa fecha de inicio----- te toca añadir el dia de hoy otra fecha
+cristhianLopez
+
+
+
+
+
+
+
+
+1 - git clone ----clonar repositorio
+2 - verificar en q rama esta con git branch
+3 - moverse a la rama dev  (moverse entre ramas ----   git checkout <nombre de la rama>
+4 - cambiarse y moverse/crear tu rama  git checkout -b <nombre de tu rama> 
+5 - Agrega un parrafo del archivo file1.txt     que te aparece.
+
+6 - ahora Tienes que hacer git add .    <esto es para anadir esa modificacion q hiciste>  no te olvides de ese punto q hay luego de git add
+7 - ahora tienes que hacer git commit -m ""    <en las comillas añades el texto q va ir en tu commit>
+8 - y ahora haces git push  origin <y aqui va el nombre de tu rama sin comillas es directo el nombre de tu rama> 
+(este signo <> solo son textos no uses eso en todo lo q veas) 
+
+
+
